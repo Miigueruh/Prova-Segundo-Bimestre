@@ -22,15 +22,15 @@ namespace cadastroProduto
         {
 
 
-            double porcentagem = valor / 100;
-            double piss = porcentagem * pis;
-            double icmss = porcentagem * icms;
-            double confinss = porcentagem * confins;
+            double porcentagem = Convert.ToDouble(valor.Text) / 100;
+            double piss = Convert.ToDouble(pis.Text) * porcentagem;
+            double icmss = Convert.ToDouble(icms.Text) * porcentagem;
+            double confinss = Convert.ToDouble(confins.Text) * porcentagem;
 
             double somaImposto = piss + icmss + confinss;
             double porcentagem2 = somaImposto / 100;
-            double lucroo = porcentagem2 * lucro;
-            double valorFinal = somaImposto + lucroo + valor);
+            double lucroo = Convert.ToDouble(lucro.Text) * porcentagem2;
+            double valorFinal = Convert.ToDouble(valor.Text) + somaImposto + lucroo;
 
             lorem.Text = $"Valor de compra: {valorFinal}";
         }
