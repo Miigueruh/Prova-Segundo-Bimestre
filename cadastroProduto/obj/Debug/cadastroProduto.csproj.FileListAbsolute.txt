@@ -1,0 +1,11 @@
+C:\Users\2022102020018\source\repos\cadastroProduto\cadastroProduto\bin\Debug\cadastroProduto.exe.config
+C:\Users\2022102020018\source\repos\cadastroProduto\cadastroProduto\bin\Debug\cadastroProduto.exe
+C:\Users\2022102020018\source\repos\cadastroProduto\cadastroProduto\bin\Debug\cadastroProduto.pdb
+C:\Users\2022102020018\source\repos\cadastroProduto\cadastroProduto\obj\Debug\cadastroProduto.csproj.AssemblyReference.cache
+C:\Users\2022102020018\source\repos\cadastroProduto\cadastroProduto\obj\Debug\cadastroProduto.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020018\source\repos\cadastroProduto\cadastroProduto\obj\Debug\cadastroProduto.Form1.resources
+C:\Users\2022102020018\source\repos\cadastroProduto\cadastroProduto\obj\Debug\cadastroProduto.Properties.Resources.resources
+C:\Users\2022102020018\source\repos\cadastroProduto\cadastroProduto\obj\Debug\cadastroProduto.csproj.GenerateResource.cache
+C:\Users\2022102020018\source\repos\cadastroProduto\cadastroProduto\obj\Debug\cadastroProduto.csproj.CoreCompileInputs.cache
+C:\Users\2022102020018\source\repos\cadastroProduto\cadastroProduto\obj\Debug\cadastroProduto.exe
+C:\Users\2022102020018\source\repos\cadastroProduto\cadastroProduto\obj\Debug\cadastroProduto.pdb
